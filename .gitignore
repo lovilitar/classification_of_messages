@@ -1,0 +1,15 @@
+venv/
+.venv/
+.pylintrc
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+Lib/
+pyvenv.cfg
+__init__.py
+
+.idea
+
+config.yaml
+
+artifacts/
