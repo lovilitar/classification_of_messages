@@ -13,3 +13,5 @@ __init__.py
 config.yaml
 
 artifacts/
+
+data/
